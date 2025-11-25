@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "slug": "getting-started-with-web-development",
+        "title": "Getting Started with Web Development",
+        "author": "Dr. Raihanul Ihsan",
+        "date": "2025-11-21",
+        "category": "Web Development",
+        "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=400&fit=crop",
+        "excerpt": "Learn the fundamentals of web development and start building your first website.",
+        "content": "Web development is an exciting field that combines creativity and technical skills. In this comprehensive guide, we'll explore the three pillars of web development: HTML, CSS, and JavaScript. Whether you're a complete beginner or have some programming experience, this guide will help you understand the basics and get started on your web development journey. We'll cover everything from setting up your development environment to deploying your first website online."
+    },
+    {
+        "id": 2,
+        "slug": "mastering-responsive-design",
+        "title": "Mastering Responsive Design in 2024",
+        "author": "Md Asadullah Al Munib",
+        "date": "2025-11-20",
+        "category": "UI/UX Design",
+        "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=400&fit=crop",
+        "excerpt": "Create beautiful websites that look perfect on all devices with responsive design principles.",
+        "content": "Responsive design is no longer optional—it's essential. With the increasing variety of devices used to access the web, designing responsive websites has become a crucial skill for modern developers and designers. In this article, we'll explore the principles of responsive design, mobile-first approach, CSS media queries, and flexible layouts. We'll also discuss best practices and tools that can help you create responsive designs efficiently."
+    },
+    {
+        "id": 3,
+        "slug": "javascript-best-practices",
+        "title": "JavaScript Best Practices Every Developer Should Know",
+        "author": "Md Jubayer Islam Sayem",
+        "date": "2025-11-19",
+        "category": "Programming",
+        "image": "https://images.unsplash.com/photo-1687603921109-46401b201195?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGphdmFzY3JpcHR8ZW58MHx8MHx8fDA%3D",
+        "excerpt": "Improve your JavaScript code quality with these essential best practices and patterns.",
+        "content": "JavaScript has evolved significantly over the years, and so have best practices for writing clean, maintainable code. In this comprehensive guide, we'll cover essential best practices including proper variable naming, avoiding global variables, using const and let instead of var, writing modular code, handling errors gracefully, and much more. These practices will help you write better code and collaborate more effectively with your team."
+    },
+    {
+        "id": 4,
+        "slug": "introduction-to-react",
+        "title": "Introduction to React: Building Modern Web Apps",
+        "author": "Md Asadullah Al Munib",
+        "date": "2025-11-18",
+        "category": "JavaScript Frameworks",
+        "image": "https://images.unsplash.com/photo-1672307974995-cd253f7f7eeb?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHJlYWN0JTIwY29kZXxlbnwwfHwwfHx8MA%3D%3D",
+        "excerpt": "Get started with React and learn how to build interactive user interfaces with component-based architecture.",
+        "content": "React has become one of the most popular JavaScript libraries for building modern web applications. With its component-based architecture, virtual DOM, and powerful ecosystem, React makes it easy to create complex, interactive user interfaces. This guide will introduce you to React's core concepts including components, JSX, props, state, and hooks. You'll learn how to build your first React application and understand why React has become the framework of choice for many developers."
+    },
+    {
+        "id": 5,
+        "slug": "database-design-fundamentals",
+        "title": "Database Design Fundamentals",
+        "author": "Dr. Raihanul Ihsan",
+        "date": "2025-11-17",
+        "category": "Backend Development",
+        "image": "https://plus.unsplash.com/premium_photo-1682145723071-33e2207f4eb1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEyfHxzZXJ2ZXIlMjByb29tfGVufDB8fDB8fHww",
+        "excerpt": "Learn the principles of good database design and how to structure your data effectively.",
+        "content": "A well-designed database is the foundation of any robust application. In this article, we'll explore the principles of database design, normalization, relationships, and schema design. You'll learn how to structure your data efficiently, avoid redundancy, maintain data integrity, and optimize performance. We'll cover both relational databases like PostgreSQL and modern NoSQL databases to help you choose the right approach for your project."
+    },
+    {
+        "id": 6,
+        "slug": "cybersecurity-tips",
+        "title": "Essential Cybersecurity Tips for Developers",
+        "author": "Md Asadullah Al Munib",
+        "date": "2025-11-16",
+        "category": "Security",
+        "image": "https://plus.unsplash.com/premium_photo-1733317239304-a6bf462a2596?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8",
+        "excerpt": "Protect your applications and users by implementing essential security practices.",
+        "content": "Security is a critical aspect of software development that should never be overlooked. In this comprehensive guide, we'll cover essential security practices including input validation, SQL injection prevention, XSS protection, CSRF tokens, password security, HTTPS implementation, and secure API design. By following these practices, you'll be able to build more secure applications and protect your users' data from malicious attacks."
+    },
+    {
+        "id": 7,
+        "slug": "cloud-computing-modern-applications",
+        "title": "Cloud Computing for Modern Applications",
+        "author": "Md Jubayer Islam Sayem",
+        "date": "2025-11-15",
+        "category": "Backend Development",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop",
+        "excerpt": "Explore how cloud computing revolutionizes application development and deployment.",
+        "content": "Cloud computing has transformed the way we build, deploy, and scale applications. In this comprehensive guide, we'll explore the fundamentals of cloud computing, different service models (IaaS, PaaS, SaaS), and major cloud providers like AWS, Google Cloud, and Azure. You'll learn about containerization, serverless computing, microservices architecture, and how to leverage cloud platforms to build scalable, resilient applications. We'll also cover best practices for cloud security, cost optimization, and monitoring. Whether you're deploying a simple web application or building complex distributed systems, understanding cloud computing is essential for modern developers."
+    },
+    {
+        "id": 8,
+        "slug": "machine-learning-for-developers",
+        "title": "Getting Started with Machine Learning for Developers",
+        "author": "Dr. Raihanul Ihsan",
+        "date": "2025-11-14",
+        "category": "Programming",
+        "image": "https://images.unsplash.com/photo-1753513291124-4f615bf1f6de?q=80&w=1963&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "excerpt": "A practical introduction to machine learning concepts and frameworks for software developers.",
+        "content": "Machine learning is no longer just for data scientists—developers can now harness its power to build intelligent applications. In this article, we'll introduce fundamental machine learning concepts including supervised learning, unsupervised learning, and neural networks. We'll explore popular frameworks like TensorFlow, PyTorch, and scikit-learn, and show you how to build your first ML model. You'll learn about data preprocessing, model training, evaluation metrics, and deployment strategies. We'll also discuss practical applications such as image recognition, natural language processing, and recommendation systems. By the end of this guide, you'll have the knowledge to integrate machine learning into your applications and stay ahead in the AI revolution."
+    },
+    {
+        "id": 9,
+        "slug": "vue-js-progressive-framework",
+        "title": "Vue.js: The Progressive JavaScript Framework",
+        "author": "Md Jubayer Islam Sayem",
+        "date": "2025-11-13",
+        "category": "JavaScript Frameworks",
+        "image": "https://images.unsplash.com/photo-1763568258612-0ae7f6eb1422?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA5fHxwcm9ncmFtbWluZyUyMGxhbmd1YWdlc3xlbnwwfHwwfHx8MA%3D%3D",
+        "excerpt": "Discover Vue.js and learn how to build interactive web applications with this progressive framework.",
+        "content": "Vue.js has become one of the most approachable JavaScript frameworks for building user interfaces. Whether you're building a small interactive widget or a full-featured single-page application, Vue provides a gentle learning curve and powerful capabilities. In this comprehensive guide, we'll explore Vue's core concepts including components, templates, directives, and the reactive data system. You'll learn about Vue's lifecycle hooks, computed properties, watchers, and how to manage state effectively. We'll also cover component communication, reusable components, and best practices for building scalable Vue applications."
+    },
+    {
+        "id": 10,
+        "slug": "color-psychology-in-design",
+        "title": "Color Psychology in Web Design",
+        "author": "Dr. Raihanul Ihsan",
+        "date": "2025-11-12",
+        "category": "UI/UX Design",
+        "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=400&fit=crop",
+        "excerpt": "Understanding how colors influence user behavior and emotion in web design.",
+        "content": "Colors are one of the most powerful tools in web design. They can evoke emotions, guide user attention, and establish brand identity. In this article, we'll explore the psychology of colors and how to use them effectively in your designs. We'll discuss the color wheel, color harmony, cultural color meanings, and how different color combinations affect user perception. You'll learn practical techniques for choosing color palettes, testing color effectiveness, and implementing accessible color schemes that work for all users including those with color blindness."
+    },
+    {
+        "id": 11,
+        "slug": "api-design-best-practices",
+        "title": "RESTful API Design Best Practices",
+        "author": "Md Asadullah Al Munib",
+        "date": "2025-11-11",
+        "category": "Backend Development",
+        "image": "https://images.unsplash.com/photo-1623282033815-40b05d96c903?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBpfGVufDB8fDB8fHww",
+        "excerpt": "Learn how to design robust and scalable RESTful APIs that follow industry best practices.",
+        "content": "Well-designed APIs are the backbone of modern web applications. In this comprehensive guide, we'll explore RESTful API design principles and best practices. You'll learn about resource naming conventions, HTTP methods and status codes, versioning strategies, pagination, filtering, and sorting. We'll discuss authentication and authorization, rate limiting, caching, and documentation. We'll also cover common pitfalls to avoid and how to handle errors gracefully. By following these best practices, you'll create APIs that are easy to use, maintain, and scale."
+    },
+    {
+        "id": 12,
+        "slug": "web-performance-optimization",
+        "title": "Web Performance Optimization Techniques",
+        "author": "Mohaiminul Islam Zim",
+        "date": "2025-11-10",
+        "category": "Web Development",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2Vic2l0ZXxlbnwwfHwwfHx8MA%3D%3D",
+        "excerpt": "Master essential techniques to optimize your website performance and improve user experience.",
+        "content": "Website performance directly impacts user satisfaction and conversion rates. In this article, we'll explore essential optimization techniques including image optimization, code minification, caching strategies, and content delivery networks. You'll learn how to measure performance using tools like Lighthouse and WebPageTest, and understand key metrics like First Contentful Paint and Cumulative Layout Shift. We'll cover lazy loading, code splitting, resource prioritization, and server-side rendering. You'll also learn about performance budgets and how to continuously monitor and improve your site's performance over time."
+    }
+]

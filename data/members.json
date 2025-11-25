@@ -1,0 +1,156 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Raihanul Ihsan",
+        "role": "President",
+        "position": "Executive",
+        "email": "roshne08@gmail.com",
+        "skills": ["Leadership", "Full Stack Development", "Project Management"],
+        "image": "https://dsmkmr.edu.bd/wp-content/uploads/2023/03/Md.-Raihanul-Ihsan.jpg",
+        "bio": "Passionate about technology and innovation. Leading the club to new heights.",
+        "social": {
+            "github": "",
+            "linkedin": "",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/share/1Fq3UvQNAq/",
+            "instagram": "",
+            "whatsapp": "",
+            "telegram": "",
+            "discord": "",
+            "phone": "",
+            "website": "https://bdweblink.com/"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Md Asadullah Al Munib",
+        "role": "Vice President",
+        "position": "Executive",
+        "email": "asadullahweb1@email.com",
+        "skills": ["UI/UX Design", "Frontend Development", "Team Coordination"],
+        "image": "https://avatars.githubusercontent.com/u/163411448?v=4",
+        "bio": "Creative designer with a passion for user experience and modern web design.",
+        "social": {
+            "github": "https://github.com/AsadullahAlMunib",
+            "linkedin": "https://linkedin.com/in/AsadullahAlMunib",
+            "twitter": "https://twitter.com/Asadullah_Munib",
+            "facebook": "https://www.facebook.com/AsadullahAlMunib",
+            "instagram": "https://instagram.com/AsadullahAlMunib",
+            "whatsapp": "",
+            "telegram": "",
+            "discord": "",
+            "phone": "",
+            "website": "https://munib.rf.gd"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Md Jubayer Islam Sayem",
+        "role": "Technical Lead",
+        "position": "Executive",
+        "email": "sayemcontact360@email.com",
+        "skills": ["Robotics", "Web design", "DIY"],
+        "image": "https://i.ibb.co/1DbGqN1/IMG-20250720-002941-416.webp",
+        "bio": "AI enthusiast working on cutting-edge machine learning projects.",
+        "social": {
+            "github": "https://github.com/sayemislam360",
+            "linkedin": "",
+            "twitter": "",
+            "facebook": "https://www.facebook.com/share/1GbjxTQy2H/",
+            "instagram": "",
+            "whatsapp": "",
+            "telegram": "",
+            "discord": "",
+            "phone": "",
+            "website": ""
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mohaiminul Islam Zim",
+        "role": "Full Stack Developer",
+        "position": "Member",
+        "email": "mizim4042@gmail.com",
+        "skills": ["React", "Node.js", "MongoDB", "AWS", "DevOps"],
+        "image": "https://avatars.githubusercontent.com/u/234752889?v=4",
+        "bio": "Passionate fullstack engineer building scalable web applications and exploring cloud technologies.",
+        "social": {
+            "github": "https://github.com/mohaiminulislamzim4042/",
+            "linkedin": "",
+            "twitter": "",
+            "facebook": "https://facebook.com/mohaiminulislam4042/",
+            "instagram": "https://instagram.com/mohaiminulislam4042/",
+            "whatsapp": "",
+            "telegram": "",
+            "discord": "mizimdisco_68318",
+            "phone": "+8801805229401",
+            "website": ""
+        }
+    },
+    {
+        "id": 5,
+        "name": "David Martinez",
+        "role": "Treasurer",
+        "position": "Executive",
+        "email": "david.martinez@email.com",
+        "skills": ["Finance", "Backend Development", "Database Management"],
+        "image": "https://ui-avatars.com/api/?name=David+Martinez&background=43e97b&color=fff&size=400",
+        "bio": "Managing club finances and developing robust backend systems.",
+        "social": {
+            "github": "https://github.com/davidmartinez",
+            "linkedin": "https://linkedin.com/in/davidmartinez",
+            "twitter": "",
+            "facebook": "",
+            "instagram": "",
+            "whatsapp": "",
+            "telegram": "",
+            "discord": "",
+            "phone": "",
+            "website": ""
+        }
+    },
+    {
+        "id": 6,
+        "name": "Jessica Taylor",
+        "role": "Secretary",
+        "position": "Executive",
+        "email": "jessica.taylor@email.com",
+        "skills": ["Documentation", "Content Writing", "Web Development"],
+        "image": "https://ui-avatars.com/api/?name=Jessica+Taylor&background=fa709a&color=fff&size=400",
+        "bio": "Keeping track of all club activities and maintaining documentation.",
+        "social": {
+            "github": "https://github.com/jessicataylor",
+            "linkedin": "https://linkedin.com/in/jessicataylor",
+            "twitter": "https://twitter.com/jessicataylor",
+            "facebook": "https://facebook.com/jessicataylor",
+            "instagram": "https://instagram.com/jessicataylor.writes",
+            "whatsapp": "+1-555-0789",
+            "telegram": "https://t.me/jessicataylor",
+            "discord": "JessicaTaylor#5678",
+            "phone": "+1-555-0789",
+            "website": "https://jessicataylor.com"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Raj Patel",
+        "role": "Full Stack Developer",
+        "position": "Member",
+        "email": "raj.patel@email.com",
+        "skills": ["React", "Node.js", "MongoDB", "AWS", "DevOps"],
+        "image": "https://ui-avatars.com/api/?name=Raj+Patel&background=FF6B6B&color=fff&size=400",
+        "bio": "Passionate fullstack engineer building scalable web applications and exploring cloud technologies.",
+        "social": {
+            "github": "https://github.com/rajpatel",
+            "linkedin": "https://linkedin.com/in/rajpatel",
+            "twitter": "https://twitter.com/rajpatel",
+            "facebook": "https://facebook.com/rajpatel",
+            "instagram": "https://instagram.com/rajpatel.dev",
+            "whatsapp": "+1-555-0123",
+            "telegram": "https://t.me/rajpatel",
+            "discord": "RajPatel#2401",
+            "phone": "+1-555-0123",
+            "website": "https://rajpatel.dev"
+        }
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Web Development Workshop",
+        "description": "Learn modern web development with React and Tailwind CSS.",
+        "date": "2025-12-15",
+        "time": "14:00",
+        "location": "Computer Lab A",
+        "category": "Workshop",
+        "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=600&fit=crop",
+        "spots": 30,
+        "registered": 24,
+        "status": "Upcoming"
+    },
+    {
+        "id": 2,
+        "title": "Hackathon 2025",
+        "description": "24-hour coding challenge to build innovative solutions.",
+        "date": "2026-01-20",
+        "time": "09:00",
+        "location": "Main Auditorium",
+        "category": "Competition",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&h=600&fit=crop",
+        "spots": 100,
+        "registered": 67,
+        "status": "Upcoming"
+    },
+    {
+        "id": 3,
+        "title": "AI & Machine Learning Seminar",
+        "description": "Expert talk on the latest trends in artificial intelligence.",
+        "date": "2025-11-25",
+        "time": "15:00",
+        "location": "Conference Hall",
+        "category": "Seminar",
+        "image": "https://images.unsplash.com/photo-1677756119517-756a188d2d94?w=800&h=600&fit=crop",
+        "spots": 50,
+        "registered": 50,
+        "status": "Past"
+    },
+    {
+        "id": 4,
+        "title": "Cybersecurity Bootcamp",
+        "description": "Intensive training on ethical hacking and network security.",
+        "date": "2025-12-05",
+        "time": "10:00",
+        "location": "Security Lab",
+        "category": "Workshop",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=600&fit=crop",
+        "spots": 25,
+        "registered": 18,
+        "status": "Upcoming"
+    },
+    {
+        "id": 5,
+        "title": "Tech Talk: Cloud Computing",
+        "description": "Understanding cloud platforms and deployment strategies.",
+        "date": "2026-01-10",
+        "time": "16:00",
+        "location": "Room 301",
+        "category": "Seminar",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
+        "spots": 40,
+        "registered": 32,
+        "status": "Upcoming"
+    },
+    {
+        "id": 6,
+        "title": "Mobile App Development",
+        "description": "Build cross-platform apps with React Native.",
+        "date": "2025-12-18",
+        "time": "13:00",
+        "location": "Computer Lab B",
+        "category": "Workshop",
+        "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop",
+        "spots": 35,
+        "registered": 28,
+        "status": "Upcoming"
+    }
+]

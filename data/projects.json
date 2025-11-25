@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Smart Campus App",
+        "description": "A comprehensive mobile application for managing campus activities, attendance, and resources.",
+        "category": "Mobile",
+        "technologies": ["React Native", "Node.js", "MongoDB", "Firebase"],
+        "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop",
+        "github": "https://github.com",
+        "demo": "#",
+        "status": "Completed",
+        "team": ["Dr. Raihanul Ihsan", "Md Asadullah Al Munib"]
+    },
+    {
+        "id": 2,
+        "title": "AI Chatbot Assistant",
+        "description": "An intelligent chatbot powered by machine learning to assist students with queries.",
+        "category": "AI",
+        "technologies": ["Python", "TensorFlow", "NLP", "Flask"],
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+        "github": "https://github.com",
+        "demo": "#",
+        "status": "In Progress",
+        "team": ["Md Jubayer Islam Sayem", "Raj Patel"]
+    },
+    {
+        "id": 3,
+        "title": "Club Management Portal",
+        "description": "A web-based platform for managing club members, events, and activities.",
+        "category": "Web",
+        "technologies": ["PHP", "MySQL", "Tailwind CSS", "JavaScript"],
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop",
+        "github": "https://github.com",
+        "demo": "#",
+        "status": "Completed",
+        "team": ["Dr. Raihanul Ihsan", "Md Asadullah Al Munib", "Md Jubayer Islam Sayem"]
+    },
+    {
+        "id": 4,
+        "title": "IoT Home Automation",
+        "description": "Smart home automation system using IoT devices and sensors.",
+        "category": "IoT",
+        "technologies": ["Arduino", "Raspberry Pi", "MQTT", "Node-RED"],
+        "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=600&fit=crop",
+        "github": "https://github.com",
+        "demo": "#",
+        "status": "Completed",
+        "team": ["Emily Davis", "Md Jubayer Islam Sayem"]
+    },
+    {
+        "id": 5,
+        "title": "E-Learning Platform",
+        "description": "Interactive online learning platform with video courses and quizzes.",
+        "category": "Web",
+        "technologies": ["React", "Node.js", "PostgreSQL", "AWS"],
+        "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800&h=600&fit=crop",
+        "github": "https://github.com",
+        "demo": "#",
+        "status": "In Progress",
+        "team": ["Md Asadullah Al Munib", "Raj Patel"]
+    },
+    {
+        "id": 6,
+        "title": "Blockchain Voting System",
+        "description": "Secure and transparent voting system built on blockchain technology.",
+        "category": "Blockchain",
+        "technologies": ["Solidity", "Ethereum", "Web3.js", "React"],
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=600&fit=crop",
+        "github": "https://github.com",
+        "demo": "#",
+        "status": "Planning",
+        "team": ["Dr. Raihanul Ihsan", "David Martinez"]
+    }
+]
